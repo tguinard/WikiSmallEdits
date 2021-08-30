@@ -1,4 +1,4 @@
-This project is for extracting small edits from Wikipedia's edit history. I originally designed this for Turkish, as part of my master's thesis, but it can be used for any language with space separated words (sorry, Chinese). 
+This project is for extracting small edits from Wikipedia's edit history. I originally designed this for Turkish, as part of my [master's thesis](https://digital.lib.washington.edu/researchworks/handle/1773/47616), but it can be used for any language with space separated words (sorry, Chinese). 
 
 A small edit is where no more than n consecutive space-separated tokens are changed (set to 3 by default)
 
